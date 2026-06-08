@@ -44,7 +44,7 @@ const Footer = () => {
   const contactInfo = [
     { icon: <MdPhone className="w-5 h-5" />, label: 'Phone', value: '+880 1234-567890', link: 'tel:+8801234567890' },
     { icon: <MdEmail className="w-5 h-5" />, label: 'Email', value: 'info@bangladeshauto.com', link: 'mailto:info@bangladeshauto.com' },
-    { icon: <MdLocationOn className="w-5 h-5" />, label: 'Address', value: 'House 1, Road 2, Sector 3, Uttara, Dhaka-1230', link: null },
+    { icon: <MdLocationOn className="w-5 h-5" />, label: 'Address', value: 'Police Plaza Concord (7th Floor), Tower-2 Plot-2, Road-144, Gulshan-1, Dhaka-1212', link: null },
     { icon: <MdAccessTime className="w-5 h-5" />, label: 'Business Hours', value: 'Sat - Thu: 9:00 AM - 8:00 PM', link: null },
   ];
 
