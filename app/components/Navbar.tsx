@@ -215,7 +215,7 @@ const Navbar = () => {
 
             {/* CTA Button */}
             <Link
-              href="/book-test-drive"
+              href="/https://www.mevauto.com/"
               className="ml-4 px-5 py-2 bg-red-500 hover:bg-red-600 text-white text-sm font-semibold rounded-lg transition-all duration-200 shadow-md hover:shadow-lg hover:shadow-red-500/30 flex items-center gap-2"
             >
               <Calendar className="w-4 h-4" />
