@@ -78,7 +78,7 @@ const Footer = () => {
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
               Bangladesh Auto Industries Ltd. is the leading automobile manufacturer and distributor in Bangladesh, 
-              committed to delivering excellence in mobility solutions since 1985.
+              committed to delivering excellence in mobility solutions since 2026.
             </p>
           </div>
 
